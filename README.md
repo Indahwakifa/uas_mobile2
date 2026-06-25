@@ -210,7 +210,7 @@ Selesai
 
 Menampilkan logo aplikasi saat pertama kali dijalankan.
 
-![Splash Screen](<img width="194" height="118" alt="image" src="https://github.com/user-attachments/assets/19b33ee8-08d9-4bc0-8184-37099112c7c1" />
+(<img width="194" height="118" alt="image" src="https://github.com/user-attachments/assets/19b33ee8-08d9-4bc0-8184-37099112c7c1" />
 
 
 ---
