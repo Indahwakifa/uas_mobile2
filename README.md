@@ -210,7 +210,8 @@ Selesai
 
 Menampilkan logo aplikasi saat pertama kali dijalankan.
 
-![Splash Screen](assets/splashscreen.png)
+![Splash Screen](<img width="194" height="118" alt="image" src="https://github.com/user-attachments/assets/19b33ee8-08d9-4bc0-8184-37099112c7c1" />
+
 
 ---
 
@@ -218,7 +219,8 @@ Menampilkan logo aplikasi saat pertama kali dijalankan.
 
 Menampilkan ucapan selamat datang dan ilustrasi buku.
 
-![Welcome Screen](assets/welcome.png)
+![Welcome Screen](<img width="50" height="104" alt="Screenshot 2026-06-25 212758" src="https://github.com/user-attachments/assets/5d4e28be-2678-4ea9-9d71-f8e486a4d4d6" />
+)
 
 ---
 
@@ -234,7 +236,8 @@ Menampilkan daftar cerita rakyat yang tersedia.
 - Timun Mas
 - Bawang Merah Bawang Putih
 
-![Story Collection](assets/home.png)
+![Story Collection](<img width="44" height="104" alt="image" src="https://github.com/user-attachments/assets/c871c6c9-1365-4891-9960-b53f07305c68" />
+)
 
 ---
 
@@ -242,7 +245,8 @@ Menampilkan daftar cerita rakyat yang tersedia.
 
 Menampilkan isi lengkap cerita yang dipilih pengguna.
 
-![Story Detail](assets/detail.png)
+![Story Detail](<img width="46" height="104" alt="image" src="https://github.com/user-attachments/assets/c78c3879-40d4-4f7d-bdec-13cba2852cb9" />
+)
 
 ---
 
@@ -250,7 +254,8 @@ Menampilkan isi lengkap cerita yang dipilih pengguna.
 
 Menampilkan daftar cerita yang telah disimpan sebagai favorit.
 
-![Favorite Story](assets/favorite.png)
+![Favorite Story](<img width="49" height="102" alt="image" src="https://github.com/user-attachments/assets/b951e7c0-03fc-4d3a-98ad-efeea4f868a2" />
+)
 
 ---
 
