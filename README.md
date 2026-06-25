@@ -323,12 +323,3 @@ Beberapa fitur yang dapat dikembangkan pada versi berikutnya:
 Cerita Nusantara merupakan aplikasi mobile berbasis Android yang bertujuan untuk memperkenalkan serta melestarikan cerita rakyat Indonesia melalui media digital. Dengan fitur koleksi cerita, detail cerita, dan favorit story, aplikasi ini dapat menjadi sarana edukasi sekaligus hiburan yang mudah diakses oleh masyarakat.
 
 ---
-
-## 👩‍💻 Developer
-
-**Indah Wafikah**  
-NIM : 312410559  
-Kelas : I241E  
-Mata Kuliah : Pemrograman Mobile
-
-⭐ Terima kasih telah menggunakan Cerita Nusantara.
